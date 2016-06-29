@@ -1,0 +1,6 @@
+<resources>
+    <string name="app_name">NewsApp</string>
+    <string name="title">Title</string>
+    <string name="webpublicationdate">webPublicationDate</string>
+    <string name="open_story">open Story</string>
+</resources>
